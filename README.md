@@ -1,4 +1,4 @@
-# 📋 GitHub Issues como Backlog de un RFP
+# GitHub Issues como Backlog de un RFP
 
 Guía para transformar las necesidades de un RFP en un backlog estructurado usando Issues, Labels y Milestones de GitHub.
 
